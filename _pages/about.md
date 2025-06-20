@@ -43,6 +43,7 @@ Publications
 
 Professional Service
 ======
-### **Conference Officer:** [Workshop Proceedings Chair of VLDB 2025](https://vldb.org/2025/?officers).\
+### **Conference Officer:**
+- [Workshop Proceedings Chair of VLDB 2025](https://vldb.org/2025/?officers).
 ### **Invited Talks:**
 - [2025/05] *Subspace Collision: A Novel Vector Search Framework*. In Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Invited by [Prof. Chuan Zhou](http://www.chuanzhou.online/).
