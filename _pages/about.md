@@ -33,7 +33,7 @@ Publications
   **IEEE International Conference on Big Data (BigData) 2024**.\
 - **Jiuqi Wei**, Ying Li, Yufan Fu, Youyi Zhang, Xiaodong Lee.\
   *Data interoperating architecture (DIA): Decoupling data and applications to give back your data ownership.*
-  **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023**.\
+  **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023**.
 - Yufan Fu, **Jiuqi Wei**, Ying Li, Botao Peng, Xiaodong Lee.\
   *TI-DNS: A Trusted and Incentive DNS Resolution Architecture based on Blockchain.*\
   **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.
