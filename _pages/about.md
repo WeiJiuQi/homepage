@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am now a research scientist at [Ant Research](https://www.antresearch.com/). Previously, I finished my Ph.D. at [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/) in 2025, advised by [Prof. Xiaodong Lee](https://www.weforum.org/people/lee-xiaodong and [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/). Before that, I earned my bachelor’s degree from Nankai University in 2019.
+
+My research focuses on high-dimensional similarity search, vector database, data interoperation, and data management. I am open to discussion or collaboration. Feel free to contact me if you are interested in my research.
 
 A data-driven personal website
 ======
