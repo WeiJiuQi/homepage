@@ -30,7 +30,7 @@ Publications
   **Computer Networks 2024**.
 - Zhixian Zhuang, Xiaodong Lee, **Jiuqi Wei**, Yufan Fu, Aiyao Zhang.\
   *CBCMS: A Compliance Management System for Cross-Border Data Transfer.*
-  **IEEE International Conference on Big Data (BigData) 2024**.\
+  **IEEE International Conference on Big Data (BigData) 2024**.
 - **Jiuqi Wei**, Ying Li, Yufan Fu, Youyi Zhang, Xiaodong Lee.\
   *Data interoperating architecture (DIA): Decoupling data and applications to give back your data ownership.*
   **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023**.
