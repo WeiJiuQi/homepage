@@ -29,17 +29,17 @@ Publications
   *Securing the internet’s backbone: A blockchain-based and incentive-driven architecture for DNS cache poisoning defense.*\
   **Computer Networks 2024**.
 - Zhixian Zhuang, Xiaodong Lee, **Jiuqi Wei**, Yufan Fu, Aiyao Zhang.\
-  *CBCMS: A Compliance Management System for Cross-Border Data Transfer.*\
+  *CBCMS: A Compliance Management System for Cross-Border Data Transfer.*
   **IEEE International Conference on Big Data (BigData) 2024**.\
 - **Jiuqi Wei**, Ying Li, Yufan Fu, Youyi Zhang, Xiaodong Lee.\
-  *Data interoperating architecture (DIA): Decoupling data and applications to give back your data ownership.*\
+  *Data interoperating architecture (DIA): Decoupling data and applications to give back your data ownership.*
   **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023**.\
 - Yufan Fu, **Jiuqi Wei**, Ying Li, Botao Peng, Xiaodong Lee.\
   *TI-DNS: A Trusted and Incentive DNS Resolution Architecture based on Blockchain.*\
-  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.\
+  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.
 - Ziyu Fei, Ying Li, **Jiuqi Wei**, Yufan Fu, Botao Peng, Xiaodong Lee.\
   *FlexAuth: A Decentralized Authorization System with Flexible Delegation.*\
-  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.\
+  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.
 
 Site-wide configuration
 ------
