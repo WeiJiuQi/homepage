@@ -21,7 +21,7 @@ Publications
   **World Wide Web Journal (WWWJ) 2025**.
 - **Jiuqi Wei**, Botao Peng, Xiaodong Lee, Themis Palpanas.\
   *DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search.*\
-  **Proceedings of the VLDB Endowment (VLDB) 2024** ([PDF](https://dl.acm.org/doi/pdf/10.14778/3665844.3665854), [Code](https://github.com/WeiJiuQi/SuCo](https://github.com/WeiJiuQi/DET-LSH)).
+  **Proceedings of the VLDB Endowment (VLDB) 2024** ([PDF](https://dl.acm.org/doi/pdf/10.14778/3665844.3665854), [Code](https://github.com/WeiJiuQi/DET-LSH)).
 - Ying Li, **Jiuqi Wei**, Ziyu Fei, Yufan Fu, Xiaodong Lee.\
   *DiSAuth: A DNS-based secure authorization framework for protecting data decoupled from applications.*\
   **Computer Networks 2024**.
