@@ -18,28 +18,28 @@ Publications
   **Proceedings of the ACM on Management of Data (SIGMOD) 2025** ([PDF](https://dl.acm.org/doi/pdf/10.1145/3709729), [Code](https://github.com/WeiJiuQi/SuCo)).
 - **Jiuqi Wei**, Xiaodong Lee, Yufan Fu, Ying Li, Botao Peng.\
   *Dominate data by yourself: a decentralized scheme for data interoperation when data is decoupled from applications.*\
-  **World Wide Web Journal (WWWJ) 2025**.
+  **World Wide Web Journal (WWWJ) 2025** ([PDF](https://link.springer.com/article/10.1007/s11280-025-01337-z)).
 - **Jiuqi Wei**, Botao Peng, Xiaodong Lee, Themis Palpanas.\
   *DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search.*\
   **Proceedings of the VLDB Endowment (VLDB) 2024** ([PDF](https://dl.acm.org/doi/pdf/10.14778/3665844.3665854), [Code](https://github.com/WeiJiuQi/DET-LSH)).
 - Ying Li, **Jiuqi Wei**, Ziyu Fei, Yufan Fu, Xiaodong Lee.\
   *DiSAuth: A DNS-based secure authorization framework for protecting data decoupled from applications.*\
-  **Computer Networks 2024**.
+  **Computer Networks 2024** ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S1389128624006066)).
 - Yufan Fu, Xiaodong Lee, **Jiuqi Wei**, Ying Li, Botao Peng.\
   *Securing the internet’s backbone: A blockchain-based and incentive-driven architecture for DNS cache poisoning defense.*\
-  **Computer Networks 2024**.
+  **Computer Networks 2024** ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S1389128624006091)).
 - Zhixian Zhuang, Xiaodong Lee, **Jiuqi Wei**, Yufan Fu, Aiyao Zhang.\
   *CBCMS: A Compliance Management System for Cross-Border Data Transfer.*
-  **IEEE International Conference on Big Data (BigData) 2024**.
+  **IEEE International Conference on Big Data (BigData) 2024** ([PDF](https://ieeexplore.ieee.org/document/10826075)).
 - **Jiuqi Wei**, Ying Li, Yufan Fu, Youyi Zhang, Xiaodong Lee.\
   *Data interoperating architecture (DIA): Decoupling data and applications to give back your data ownership.*
-  **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023**.
+  **IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) 2023** ([PDF](https://ieeexplore.ieee.org/document/10197025)).
 - Yufan Fu, **Jiuqi Wei**, Ying Li, Botao Peng, Xiaodong Lee.\
   *TI-DNS: A Trusted and Incentive DNS Resolution Architecture based on Blockchain.*\
-  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.
+  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023** ([PDF](https://ieeexplore.ieee.org/document/10538522)).
 - Ziyu Fei, Ying Li, **Jiuqi Wei**, Yufan Fu, Botao Peng, Xiaodong Lee.\
   *FlexAuth: A Decentralized Authorization System with Flexible Delegation.*\
-  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023**.
+  **IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2023** ([PDF](https://ieeexplore.ieee.org/document/10538799)).
 
 Professional Service
 ======
