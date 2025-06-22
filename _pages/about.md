@@ -9,7 +9,7 @@ redirect_from:
 
 I am now a research scientist at [Ant Research](https://www.antresearch.com/). Previously, I finished my Ph.D. at [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/) in 2025, advised by [Prof. Xiaodong Lee](https://www.weforum.org/people/lee-xiaodong) and [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/). Before that, I earned my bachelor’s degree from [Nankai University](https://en.nankai.edu.cn/) in 2019.
 
-My research focuses on high-dimensional similarity search, vector database, data interoperation, and data management. I am open to discussion or collaboration. Feel free to contact me if you are interested in my research.
+My research focuses on high-dimensional similarity search, vector database, data interoperation, and data management. I am open to discussion or collaboration. Feel free to contact me (weijiuqi1997@hotmail.com) if you are interested in my research.
 
 Publications
 ======
