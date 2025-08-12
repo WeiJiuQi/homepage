@@ -48,9 +48,7 @@ Professional Service
   
 ### **Invited Talks:**
 - [2025/07] *Subspace Collision: A Novel Vector Search Framework*. In Bytedance Research, America (Online). Invited by [Prof. Ye Liu](https://scholar.google.com/citations?user=-TBzBfkAAAAJ&hl=en).
-- [2025/06] *Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search*. In ACM SIGMOD/PODS International Conference on Management of Data, Berlin, Germany.
 - [2025/05] *Subspace Collision: A Novel Vector Search Framework*. In Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Invited by [Prof. Chuan Zhou](http://www.chuanzhou.online/).
-- [2024/08] *DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search*. In 50th International Conference on Very Large Databases, Guangzhou, China.
 
 Selected Awards
 ======
