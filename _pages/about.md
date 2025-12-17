@@ -13,6 +13,9 @@ My research focuses on vector similarity search (vector database), LLM inference
 
 Publications
 ======
+- **Jiuqi Wei**, Quanqing Xu, Chuanhui Yang.\
+  *The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI.*\
+  **IEEE International Conference on Data Engineering (ICDE) 2026**.
 - **Jiuqi Wei**, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, Botao Peng.\
   *Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search.*\
   **Proceedings of the ACM on Management of Data (SIGMOD) 2025** ([PDF](https://dl.acm.org/doi/pdf/10.1145/3709729), [Code](https://github.com/WeiJiuQi/SuCo)).
