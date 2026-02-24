@@ -13,6 +13,9 @@ My research focuses on vector database, hybrid retrieval, LLM inference accelera
 
 Publications
 ======
+- **Jiuqi Wei**, Zhenyu Liao, Ruoyu Han, Quanqing Xu, Chuanhui Yang, Themis Palpanas.\
+  *TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search.*\
+  **Proceedings of the ACM on Management of Data (SIGMOD) 2026**.
 - **Jiuqi Wei**, Quanqing Xu, Chuanhui Yang.\
   *The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI.*\
   **IEEE International Conference on Data Engineering (ICDE) 2026**.
