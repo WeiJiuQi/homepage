@@ -50,7 +50,10 @@ Publications
 Professional Service
 ======
 ### **Conference Officer:**
-- [Workshop Proceedings Chair of VLDB 2025](https://vldb.org/2025/?officers).
+- Workshop Proceedings Chair: VLDB 2025, VLDB 2026.
+  
+### **Reviewer:**
+- VLDB 2027.
   
 ### **Invited Talks:**
 - [2025/07] *Subspace Collision: A Novel Vector Search Framework*. In Bytedance Research, America (Online). Invited by [Prof. Ye Liu](https://scholar.google.com/citations?user=-TBzBfkAAAAJ&hl=en).
