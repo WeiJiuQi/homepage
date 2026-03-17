@@ -13,6 +13,9 @@ My research focuses on vector database, hybrid retrieval, LLM inference accelera
 
 Publications
 ======
+- **Jiuqi Wei**, Xiaodong Lee, Botao Peng, Quanqing Xu, Chuanhui Yang, Themis Palpanas.\
+  *PDET-LSH: Scalable In-Memory Indexing for High-Dimensional Approximate Nearest Neighbor Search with Quality Guarantees.*\
+  **IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026**.
 - **Jiuqi Wei**, Zhenyu Liao, Ruoyu Han, Quanqing Xu, Chuanhui Yang, Themis Palpanas.\
   *TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search.*\
   **Proceedings of the ACM on Management of Data (SIGMOD) 2026**.
