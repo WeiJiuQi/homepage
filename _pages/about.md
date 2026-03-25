@@ -55,7 +55,7 @@ Professional Service
 ### **Conference Officer:**
 - Workshop Proceedings Chair: VLDB 2025, VLDB 2026.
   
-### **Reviewer:**
+### **PC Member/Reviewer:**
 - VLDB 2027.
   
 ### **Invited Talks:**
