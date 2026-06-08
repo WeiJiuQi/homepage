@@ -57,6 +57,7 @@ Professional Service
   
 ### **PC Member/Reviewer:**
 - VLDB 2027.
+- VLDB 2026 Workshop on Systems for Data-centric Agents with Human-in-the-loop (DASHSys).
   
 ### **Invited Talks:**
 - [2025/07] *Subspace Collision: A Novel Vector Search Framework*. In Bytedance Research, America (Online). Invited by [Prof. Ye Liu](https://scholar.google.com/citations?user=-TBzBfkAAAAJ&hl=en).
