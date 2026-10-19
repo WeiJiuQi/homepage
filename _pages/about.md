@@ -56,7 +56,7 @@ Professional Service
 - Workshop Proceedings Chair: VLDB 2025, VLDB 2026.
   
 ### **PC Member/Reviewer:**
-- VLDB 2027.
+- VLDB 2027, SIGMOD 2028.
 - VLDB 2026 Workshop on Systems for Data-centric Agents with Human-in-the-loop (DASHSys).
   
 ### **Invited Talks:**
